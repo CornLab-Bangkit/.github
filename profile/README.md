@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/CornLab-Bangkit/CornLab/blob/main/LOGO.png" alt="CornLab Logo" width="300" style="border-radius: 35px;"/>
+</div>
+
 # CornLab
 
 ---
